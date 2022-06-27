@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/mohamedshames2001/React.git/static/css/main.7fb98a55.css",
+    "main.js": "/mohamedshames2001/React.git/static/js/main.cab97d92.js",
+    "index.html": "/mohamedshames2001/React.git/index.html",
+    "main.7fb98a55.css.map": "/mohamedshames2001/React.git/static/css/main.7fb98a55.css.map",
+    "main.cab97d92.js.map": "/mohamedshames2001/React.git/static/js/main.cab97d92.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.7fb98a55.css",
+    "static/js/main.cab97d92.js"
+  ]
+}
